@@ -101,6 +101,7 @@
 // Local modules
 #include "defines.h"
 #include "mode.h"
+#include "GForce.h"
 
 #ifdef ENABLE_SCRIPTING
 #include <AP_Scripting/AP_Scripting.h>
